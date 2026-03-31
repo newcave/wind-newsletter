@@ -1,0 +1,14 @@
+# Streamlit secrets (로컬 전용 - 절대 커밋 금지)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
